@@ -1,2 +1,2 @@
 # ML-and-Python-Resources
-Collection of important resources for Data Scientist
+Collection of important resources for a Data Scientist
